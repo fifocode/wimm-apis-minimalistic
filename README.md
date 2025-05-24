@@ -7,3 +7,20 @@ This is the minimalistic version of the Project `Modern Backend Development - Wh
 
 ## Explore the Modern Backend Development - WhereIsMyMotivation
 [Modern Backend Development - WhereIsMyMotivation](https://github.com/unusualcodeorg/wimm-node-app)
+
+# Installation
+
+```bash
+# clone the repo
+git clone https://github.com/fifocode/wimm-apis-minimalistic.git
+
+# clone wimm-disk submodule
+git submodule update --init --recursive
+
+# install dependencies
+npm install
+```
+
+## TODO Add Docker config and upgrade libearies
+- [ ] Upgrade Libraries
+- [ ] Add Docker
