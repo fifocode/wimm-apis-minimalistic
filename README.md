@@ -21,6 +21,6 @@ git submodule update --init --recursive
 npm install
 ```
 
-## TODO Add Docker config and upgrade libearies
+## TODO
 - [ ] Upgrade Libraries
 - [ ] Add Docker
